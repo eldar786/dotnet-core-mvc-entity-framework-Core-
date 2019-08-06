@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-Faktura",
+      "appliesTo": "VjezbaCRUD/EntityModels/Faktura.cs",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-VjezbaCRUD",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}

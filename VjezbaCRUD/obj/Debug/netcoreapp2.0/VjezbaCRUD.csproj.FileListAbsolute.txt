@@ -1,0 +1,11 @@
+C:\Users\Eldar\source\repos\VjezbaCRUD\VjezbaCRUD\bin\Debug\netcoreapp2.0\VjezbaCRUD.deps.json
+C:\Users\Eldar\source\repos\VjezbaCRUD\VjezbaCRUD\bin\Debug\netcoreapp2.0\VjezbaCRUD.runtimeconfig.json
+C:\Users\Eldar\source\repos\VjezbaCRUD\VjezbaCRUD\bin\Debug\netcoreapp2.0\VjezbaCRUD.runtimeconfig.dev.json
+C:\Users\Eldar\source\repos\VjezbaCRUD\VjezbaCRUD\bin\Debug\netcoreapp2.0\VjezbaCRUD.dll
+C:\Users\Eldar\source\repos\VjezbaCRUD\VjezbaCRUD\obj\Debug\netcoreapp2.0\VjezbaCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Eldar\source\repos\VjezbaCRUD\VjezbaCRUD\obj\Debug\netcoreapp2.0\VjezbaCRUD.AssemblyInfoInputs.cache
+C:\Users\Eldar\source\repos\VjezbaCRUD\VjezbaCRUD\obj\Debug\netcoreapp2.0\VjezbaCRUD.AssemblyInfo.cs
+C:\Users\Eldar\source\repos\VjezbaCRUD\VjezbaCRUD\bin\Debug\netcoreapp2.0\VjezbaCRUD.pdb
+C:\Users\Eldar\source\repos\VjezbaCRUD\VjezbaCRUD\obj\Debug\netcoreapp2.0\VjezbaCRUD.dll
+C:\Users\Eldar\source\repos\VjezbaCRUD\VjezbaCRUD\obj\Debug\netcoreapp2.0\VjezbaCRUD.pdb
+C:\Users\Eldar\source\repos\VjezbaCRUD\VjezbaCRUD\obj\Debug\netcoreapp2.0\VjezbaCRUD.csprojAssemblyReference.cache

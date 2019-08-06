@@ -1,0 +1,52 @@
+﻿@using VjezbaCRUD.EntityModels 
+@using VjezbaCRUD.ViewModels
+
+@{
+    ViewData["Title"] = "Prikazi";
+
+    var podaci = (List<KupacPrikaziViewModel>) ViewData["podaci-kljuc"];
+
+}
+
+<h2>Prikazi</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Naziv</th>
+            <th>Adresa</th>
+            <th>PdvBroj</th>
+            <th>OpstinaPrebivalista </th>
+            <th>Fakture Count</th>
+            <th>Fakture Sum</th>
+            <th>Akcija</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (KupacPrikaziViewModel x in podaci)
+        {
+            
+            <tr>
+                <td>@x.Naziv</td>
+                <td>@x.Adresa</td>
+                <td>@x.PdvBroj</td>
+                <td>@if (x.OpstinaPrebivalista == null)
+                {
+                    <label>Nema opstine</label>
+                }
+                else
+                {
+                    <label>@x.OpstinaPrebivalista</label>
+                }
+
+                </td>
+                <td>@x.BrojFaktura</td>
+                <td>@x.SumaFaktura</td>
+                <td>
+                    <a href="Obrisi?id=@x.id">Obrisi</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

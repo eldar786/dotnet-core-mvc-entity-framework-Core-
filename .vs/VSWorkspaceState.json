@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\VjezbaCRUD",
+    "\\VjezbaCRUD\\Controllers",
+    "\\VjezbaCRUD\\EF",
+    "\\VjezbaCRUD\\EntityModels",
+    "\\VjezbaCRUD\\ViewModel",
+    "\\VjezbaCRUD\\ViewModels",
+    "\\VjezbaCRUD\\Views",
+    "\\VjezbaCRUD\\Views\\Kupac"
+  ],
+  "PreviewInSolutionExplorer": false
+}
